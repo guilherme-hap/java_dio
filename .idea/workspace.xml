@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce565e16-3c6f-478c-b5e3-2c933ef24345" name="Changes" comment="Desafio banco digital">
+      <change afterPath="$PROJECT_DIR$/DesafioPOO/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafioPOO/src/MainPOO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafioPOO/src/br/com/dio/domain/Bootcamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafioPOO/src/br/com/dio/domain/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafioPOO/src/br/com/dio/domain/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafioPOO/src/br/com/dio/domain/Dev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafioPOO/src/br/com/dio/domain/Mentoria.java" afterDir="false" />
+    </list>
+    <list id="64c93e1d-aac8-4f35-a0af-53601d6a4ac7" name="no commit" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Java-DIO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafioControleDeFluxo/DesafioControleDeFluxo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafioControleFluxo/production/Java-DIO/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafioControleFluxo/production/Java-DIO/Contador.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafioControleFluxo/production/Java-DIO/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafioControleFluxo/production/Java-DIO/src/Banco.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafioControleFluxo/production/Java-DIO/src/Cliente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafioControleFluxo/production/Java-DIO/src/Conta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafioControleFluxo/production/Java-DIO/src/ContaCorrente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafioControleFluxo/production/Java-DIO/src/ContaPoupanca.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafioControleFluxo/production/Java-DIO/src/ContaTerminal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafioControleFluxo/production/Java-DIO/src/IConta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafioControleFluxo/production/Java-DIO/src/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafioControleFluxo/production/Java-DIO/src/Terminal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafioControleFluxo/production/Java-DIO/src/exception/ParametrosInvalidosException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafioControleFluxo/production/Java-DIO/src/iphone/AparelhoTelefonico.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafioControleFluxo/production/Java-DIO/src/iphone/NavegadorInternet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafioControleFluxo/production/Java-DIO/src/iphone/ReprodutorMusical.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesafioControleFluxo/production/Java-DIO/src/iphone/iPhone.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;guilherme-hap&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/guilherme-hap/java_dio.git&quot;,
+    &quot;accountId&quot;: &quot;fff0cf91-6676-4f39-89aa-e34b1ecee7cc&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2qJXv4kuBZVrpPE2Y7ifV7IKyHo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Application.ContaTerminal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Contador.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Terminal.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Pichau/Documents/Java-DIO&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15722656&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Pichau\Documents\Java-DIO\DesafioControleDeFluxo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pichau\Documents\Java-DIO" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainPOO">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Main" />
+      <module name="Java-DIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPOO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.MainPOO" />
+      <module name="Java-DIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Terminal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Terminal" />
+      <module name="Java-DIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainPOO" />
+        <item itemvalue="Application.Terminal" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce565e16-3c6f-478c-b5e3-2c933ef24345" name="Changes" comment="" />
+      <changelist id="64c93e1d-aac8-4f35-a0af-53601d6a4ac7" name="no commit" comment="" />
+      <created>1734381878858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734381878858</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Desafio conta bancária no terminal">
+      <option name="closed" value="true" />
+      <created>1734383883992</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734383883992</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Desafio controle de fluxo">
+      <option name="closed" value="true" />
+      <created>1734386131661</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734386131661</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Desafio modelagem e diagramação">
+      <option name="closed" value="true" />
+      <created>1734387162165</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734387162165</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Desafio banco digital">
+      <option name="closed" value="true" />
+      <created>1734456732726</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734456732727</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Desafio conta bancária no terminal" />
+    <MESSAGE value="Desafio controle de fluxo" />
+    <MESSAGE value="Desafio modelagem e diagramação" />
+    <MESSAGE value="Desafio banco digital" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio banco digital" />
+  </component>
+</project>
